@@ -4,10 +4,7 @@ var stripes;
 function setup() {
   createCanvas(450, 400);
 
-  //Assign stripes variable to a new Group()
-  stripes = new Group();
-
-  //Draw stripes using for loop
+   //Draw stripes using for loop
 }
 
 function draw() {
